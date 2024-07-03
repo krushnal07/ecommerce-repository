@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Shovel",
+      "category": "equipment",
+      "image": "https://steemitimages.com/DQmezTZw1odZ9mLcXV1qqZCRVG7QR1sjtVzURkN57RNPFuT/image.png",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Pickaxes",
+      "category": "equipment",
+      "image": "https://steemitimages.com/640x0/https://steemitimages.com/DQmSqAJ1yyArLoTMTyvHsgCuRpDeDwLpsnyrai662dnFmf8/image.png",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "Cutless",
+      "category": "equipment",
+      "image": "https://steemitimages.com/DQmaVtFVxmdFTCjFxY934G22DCQ1kPFUwnZ8WnVNKLycrTG/image.png",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Organic Fertilizer",
+      "category": "fertilizer",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/40008672_3-natures-plus-organic-fertiliser.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Urea Neem coated",
+      "category": "fertilizer",
+      "image": "https://m.media-amazon.com/images/I/61BVMXL2MML._SL1200_.jpg",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Super Phosphate",
+      "category": "fertilizer",
+      "image": "https://m.media-amazon.com/images/I/61ECxk5BdvL._SX569_.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "Plowing Machine",
+      "category": "machinery",
+      "image": "https://s.alicdn.com/@sc04/kf/HTB1bBE4cJLO8KJjSZFxq6yGEVXaI.jpg_220x220.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Staunch Disc Plough",
+      "category": "machinery",
+      "image": "https://s.alicdn.com/@sc04/kf/H3c134f31f18e40b381672b158da7ebd4H.jpg_200x200.jpg_.webp",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Paddy Weeder",
+      "category": "machinery",
+      "image": "https://s.alicdn.com/@sc04/kf/A2bac5e1f24894779b0f0b19c3a229612v.png_200x200.png_.webp",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
